@@ -1,0 +1,19 @@
+{
+    "name": "eliphaz/simple-php-di-container",
+    "description": "Simple PHP dependency injection container",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eliphaz\\SimplePhpDiContainer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eliphaz Bouye",
+            "email": "eliphazbouye@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
